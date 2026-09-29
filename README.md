@@ -1,0 +1,1 @@
+This project is an exercise in basic HTML. It may look bad, but it's a work in progress.
