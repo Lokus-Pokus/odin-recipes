@@ -1,6 +1,15 @@
 
+/* kolor swetra: #df3c1d kolor czepka: #fbead3  */
+
 body {
-    background-color: #fdf6e4;
+    background-color: #fbead3;
+}
+
+.content {
+    background-color: #fffdf0;
+    border-radius: 25px;
+    padding: 20px;
+    border: 2px solid #4c2005;
 }
 
 h1 {
